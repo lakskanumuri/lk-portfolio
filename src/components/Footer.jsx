@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>Designed &amp; built by Lakshmi Kanumuri &nbsp;·&nbsp;</p>
+      <p>Designed &amp; built by Lakshmi Kanumuri &nbsp;</p>
     </footer>
   )
 }
