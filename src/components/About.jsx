@@ -12,14 +12,13 @@ function About() {
       <div className="container">
         <div className="section-header reveal">
           <span className="section-label">01 — About</span>
-          <h2 className="section-title">A bit about me</h2>
+          <h2 className="section-title">A Bit About Me</h2>
         </div>
 
         <div className="about-grid">
           <div className="about-text reveal">
             <p>
-              I'm an AI and data engineer focused on building systems that turn raw data
-              into decisions. My work sits at the intersection of machine learning
+              I'm a Software Engineer currently working in New York City. My work sits at the intersection of machine learning
               engineering, data pipelines, and applied AI — from designing RAG architectures
               and agentic workflows to wiring up the APIs and infrastructure that make them
               production-ready.
