@@ -38,7 +38,7 @@ function Experience() {
       <div className="container">
         <div className="section-header reveal">
           <span className="section-label">02 — Experience</span>
-          <h2 className="section-title">Where I've worked</h2>
+          <h2 className="section-title">Where I've Worked</h2>
         </div>
 
         <div className="timeline">
