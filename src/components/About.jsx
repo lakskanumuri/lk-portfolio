@@ -29,7 +29,7 @@ function About() {
               I'm currently deepening my cloud expertise through the AWS Solutions Architect
               certification (expected June 2026).
             </p>
-            <a href="/Lakshmi_Kanumuri_Resume_2026.pdf" download className="btn btn-outline">Download Resume</a>
+            {/* <a href="/Lakshmi_Kanumuri_Resume_2026.pdf" download className="btn btn-outline">Download Resume</a> */}
           </div>
 
           <div className="skills-grid reveal">
