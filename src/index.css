@@ -7,9 +7,9 @@
   --bg-dark:     #2d2418;
   --text:        #2d2d2d;
   --text-muted:  #6e6b67;
-  --accent:      #128941;
+  --accent:      #e87339;
   --accent-dark: #093e11;
-  --accent-pale: #a1d4aa;
+  --accent-pale: #f8a3e9;
   --border:      #e4dbd0;
   --white:       #ffffff;
 
@@ -116,7 +116,7 @@ section {
   background: var(--accent-dark);
   border-color: var(--accent-dark);
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(87, 232, 47, 0.35);
+  box-shadow: 0 8px 24px rgba(254, 121, 50, 0.35);
 }
 
 .btn-ghost {
@@ -262,7 +262,7 @@ section {
 .blob-1 {
   width: 520px;
   height: 520px;
-  background: radial-gradient(circle, #97ecbc 0%, #63e85e60 60%, transparent 100%);
+  background: radial-gradient(circle, #ec97e1 0%, #d85ee860 60%, transparent 100%);
   top: -120px;
   right: -80px;
   animation: float 8s ease-in-out infinite;
@@ -271,7 +271,7 @@ section {
 .blob-2 {
   width: 380px;
   height: 380px;
-  background: radial-gradient(circle, #c8e6c0 0%, #a8d4a060 60%, transparent 100%);
+  background: radial-gradient(circle, #eaaf7b 0%, #ff660060 60%, transparent 100%);
   bottom: -80px;
   left: -60px;
   animation: float 10s ease-in-out infinite reverse;
