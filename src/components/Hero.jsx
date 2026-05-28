@@ -7,7 +7,7 @@ function Hero() {
       <div className="hero-content fade-in visible">
         <p className="hero-greeting">Hi, I'm</p>
         <h1 className="hero-name">Lakshmi<br />Kanumuri</h1>
-        <p className="hero-tagline">Software Engineer building things that matter.</p>
+        <p className="hero-tagline">Software Engineer interested in building things that matter.</p>
         <div className="hero-cta">
           <a href="#experience" className="btn btn-primary">View Experience</a>
           <a href="#contact"  className="btn btn-ghost">Get in Touch</a>
