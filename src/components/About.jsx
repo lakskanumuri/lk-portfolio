@@ -1,5 +1,5 @@
 const skills = [
-  { category: 'Languages',     items: ['Python', 'SQL', 'JavaScript','R' ,'Java', 'C++'] },
+  { category: 'Languages',     items: ['Python', 'SQL', 'JavaScript','R' ,'Java'] },
   { category: 'AI/ML',    items: ['LLMs', 'RAG', 'TensorFlow', 'PyTorch', 'MCP'] },
   { category: 'Data & Cloud', items: ['PostgreSQL','ETL', 'Data Warehousing', 'AWS', 'Tableau', 'PowerBI'] },
   {category: 'Infrastructure', items: ['Docker', 'Kubernetes', 'Git', 'Linux'] },
