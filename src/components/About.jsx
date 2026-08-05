@@ -26,7 +26,7 @@ function About() {
             <p>
               When I'm not building, you'll find me running, reading, or listening to music.
               I'm currently deepening my cloud expertise through the AWS Solutions Architect
-              certification (expected June 2026).
+              certification.
             </p>
             {/* <a href="/Lakshmi_Kanumuri_Resume_2026.pdf" download className="btn btn-outline">Download Resume</a> */}
           </div>
