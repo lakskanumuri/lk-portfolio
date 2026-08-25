@@ -24,6 +24,7 @@ function Navbar() {
         <ul className={`nav-links${menuOpen ? ' open' : ''}`}>
           <li><a href="#about"      className="nav-link" onClick={closeMenu}>About</a></li>
           <li><a href="#experience" className="nav-link" onClick={closeMenu}>Experience</a></li>
+          <li><a href="#projects"    className="nav-link" onClick={closeMenu}>Projects</a></li>
           <li><a href="#contact"    className="nav-link" onClick={closeMenu}>Contact</a></li>
         </ul>
 
