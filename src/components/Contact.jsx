@@ -3,7 +3,7 @@ function Contact() {
     <section id="contact">
       <div className="container">
         <div className="contact-inner reveal">
-          <span className="section-label">03 — Contact</span>
+          <span className="section-label">04 — Contact</span>
           <h2 className="section-title">Let's Connect!</h2>
           <p className="contact-text">
             Whether you have a project in mind, a question, or just want to say
