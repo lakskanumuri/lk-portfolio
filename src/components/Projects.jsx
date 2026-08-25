@@ -38,7 +38,7 @@ function Projects() {
     <section id="projects">
       <div className="container">
         <div className="section-header reveal">
-          <span className="section-label">02 — Projects</span>
+          <span className="section-label">03 — Projects</span>
           <h2 className="section-title">Things I've built</h2>
         </div>
 
