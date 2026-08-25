@@ -54,10 +54,6 @@ function Projects() {
 
               <h3 className="project-title">{title}</h3>
               <p className="project-desc">{desc}</p>
-
-              <div className="project-tech">
-                {tech.map(tag => <span key={tag}>{tag}</span>)}
-              </div>
             </article>
           ))}
         </div>
