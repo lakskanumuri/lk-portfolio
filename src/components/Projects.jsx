@@ -19,31 +19,18 @@ const ExternalLinkIcon = () => (
 
 const projects = [
   {
-    title:    'Project Title Here',
-    desc:     'A concise description of what this project does, the problem it solves, and the impact it had. Make it outcomes-focused and punchy.',
-    tech:     ['React', 'Node.js', 'PostgreSQL', 'AWS'],
-    github:   '#',
-    live:     '#',
+    title:    'Vulnerability Radar',
+    desc:     "Designed a full-stack package dependency vulnerability scanner that aggregates CVE data from NVD, OSV, and CISA's KEV feed, matches it against installed packages, and scores risk from CVSS, exploit status, and patch availability. Shipped with Alembic-managed migrations, authenticated and rate-limited endpoints, and Postgres-advisory-lock leader election for the background sync scheduler.",
+    tech:     ['FastAPI', 'React', 'PostgreSQL'],
+    github:   'https://github.com/lakskanumuri/vulnerability_radar',
     featured: true,
   },
   {
-    title:  'Second Project',
-    desc:   'Description of your second project. What does it do and why does it matter?',
-    tech:   ['Python', 'FastAPI', 'Docker'],
-    github: '#',
-  },
-  {
-    title:  'Third Project',
-    desc:   'Description of your third project. Keep it outcome-oriented.',
-    tech:   ['TypeScript', 'GraphQL', 'Redis'],
-    github: '#',
-  },
-  {
-    title:  'Fourth Project',
-    desc:   'Description of your fourth project.',
-    tech:   ['Go', 'Kubernetes', 'Terraform'],
-    github: '#',
-  },
+    title:  'Portfolio Performance Analyzer',
+    desc:   'Built an interactive investment analytics dashboard with real-time market data (Yahoo Finance API), risk metrics (Sharpe, Sortino, etc.), and valuation screening tools. Enabled users to select and compare any combination of stocks, generating automated performance diagnostics, sector breakdowns, and optimization recommendations.',
+    tech:   ['Python', 'Streamlit', 'Git'],
+    github: 'https://github.com/lakskanumuri/portfolio-performance-analyzer',
+  }
 ]
 
 function Projects() {
